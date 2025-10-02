@@ -1,6 +1,13 @@
 # 2025-JavaJungsuk4-Study
 
 <p align="center">
+  <strong>인천대학교 정보통신공학과 웹 개발 소모임 ComWith </strong>
+</p>
+<p align="center">
+  <strong>▶️ Team Basic | 자바의 정석4 스터디 ◀️</strong>
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/c60a52d5-7478-4619-9c58-02d6cb3b310a" alt="book" width="400">
 </p>
 
