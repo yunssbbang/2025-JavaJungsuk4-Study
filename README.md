@@ -10,7 +10,7 @@
 
 - **목표:** 자바 언어를 더 깊이 학습하며 이해하고, 객체지향 프로그래밍 개념을 익히는 것을 목표로 합니다.
 
-- **기간:** 2025년 10월 ~ 2026년 1월, 총 12주
+- **기간:** 2025년 10월 ~ 진행중
 
 - **정기 미팅:** 매주 화요일 오후 6시
 
@@ -20,9 +20,9 @@
 
 <div align="center">
 
-| <img src="https://github.com/yim0327.png" width="120"> | <img src="https://github.com/jaeiling.png" width="120"> | <img src="https://github.com/jaebeom02.png" width="120"> | <img src="https://github.com/yunssbbang.png" width="120"> | <img src="https://github.com/---.png" width="120"> |
+| <img src="https://github.com/yim0327.png" width="120"> | <img src="https://github.com/jaeiling.png" width="120"> | <img src="https://github.com/jaebeom02.png" width="120"> | <img src="https://github.com/yunssbbang.png" width="120"> | <img src="https://github.com/eunji296.png" width="120"> |
 |:---:|:---:|:---:|:---:|:---:|
-| 임재영([yim0327](https://github.com/yim0327)) | 안재일([jaeiling](https://github.com/jaeiling)) | 김재범([jaebeom02](https://github.com/jaebeom02)) | 도가윤([yunssbbang](https://github.com/yunssbbang)) | 차은지([---](https://github.com/---)) |
+| 임재영([yim0327](https://github.com/yim0327)) | 안재일([jaeiling](https://github.com/jaeiling)) | 김재범([jaebeom02](https://github.com/jaebeom02)) | 도가윤([yunssbbang](https://github.com/yunssbbang)) | 차은지([eunji296](https://github.com/eunji296)) |
 
 </div>
 
